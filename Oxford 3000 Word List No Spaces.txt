@@ -1505,13 +1505,13 @@ goodbye
 goods
 go_off
 go_on
-go_on doing
+go_on_doing
 go_out
-go_out with
+go_out_with
 go_over
 go_round
 go_through
-go_through with
+go_through_with
 go_to
 go_up
 govern
