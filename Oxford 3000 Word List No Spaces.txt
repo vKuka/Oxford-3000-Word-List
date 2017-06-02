@@ -104,7 +104,7 @@ alive
 all
 allied
 allow
-allow for
+allow_for
 all_right
 ally
 almost
@@ -2682,7 +2682,7 @@ put_out
 put_through
 put_together
 put_up
-put_up with
+put_up_with
 qualification
 qualified
 qualify
