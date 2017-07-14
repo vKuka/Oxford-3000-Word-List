@@ -689,7 +689,6 @@ conclusion
 concrete
 condition
 conduct
-conduct
 conference
 confidence
 confident
@@ -736,8 +735,6 @@ continue
 continuous
 continuously
 contract
-contract
-contrast
 contrast
 contrasting
 contribute
@@ -913,7 +910,6 @@ derive
 derive from
 describe
 description
-desert
 desert
 deserted
 deserve
@@ -1211,7 +1207,6 @@ exciting
 exclude
 excluding
 excuse
-excuse
 executive
 exercise
 exhibit
@@ -1234,7 +1229,6 @@ explanation
 explode
 explore
 explosion
-export
 export
 expose
 express
@@ -1714,7 +1708,6 @@ impact
 impatient
 implication
 imply
-import
 import
 importance
 important
@@ -2272,7 +2265,6 @@ nurse
 nut
 obey
 object
-object
 objective
 observation
 observe
@@ -2354,11 +2346,9 @@ outer
 outline
 output
 outside
-outside
 outstanding
 oven
 over
-overall
 overall
 overcome
 owe
@@ -2563,7 +2553,6 @@ prepare
 prepared
 presence
 present
-present
 presentation
 preserve
 president
@@ -2612,8 +2601,6 @@ profit
 program
 programme
 progress
-progress
-project
 project
 promise
 promote
@@ -2632,7 +2619,6 @@ propose
 prospect
 protect
 protection
-protest
 protest
 proud
 proudly
@@ -2745,7 +2731,6 @@ reckon on
 recognition
 recognize
 recommend
-record
 record
 recording
 recover
@@ -2990,7 +2975,6 @@ sensible
 sensitive
 sentence
 separate
-separate
 separated
 separately
 separation
@@ -3150,7 +3134,6 @@ soldier
 solid
 solution
 solve
-some
 some
 somebody
 somehow
@@ -3343,7 +3326,6 @@ surround
 surrounding
 surroundings
 survey
-survey
 survive
 suspect
 suspicion
@@ -3424,7 +3406,6 @@ than
 thank
 thanks
 thank you
-that
 that
 the
 theatre
@@ -3535,12 +3516,10 @@ traffic
 train
 training
 transfer
-transfer
 transform
 translate
 translation
 transparent
-transport
 transport
 transportation
 trap
@@ -3656,7 +3635,6 @@ up
 upon
 upper
 upset
-upset
 upsetting
 upside down
 upstairs
@@ -3666,7 +3644,6 @@ urban
 urge
 urgent
 us
-use
 use
 used 1
 used 2
