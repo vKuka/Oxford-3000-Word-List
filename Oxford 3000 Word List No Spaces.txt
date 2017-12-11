@@ -187,7 +187,7 @@ approve
 approving
 approximate
 approximately
-April
+april
 area
 argue
 argument
@@ -339,7 +339,7 @@ betting
 between
 beyond
 bicycle
-bid_1
+bid
 big
 bike
 bill
@@ -474,8 +474,7 @@ camera
 camp
 campaign
 camping
-can_1
-can_2
+can
 cancel
 cancer
 candidate
@@ -605,8 +604,7 @@ climate
 climb
 climbing
 clock
-close_1
-close_2
+close
 closed
 closely
 closet
@@ -689,7 +687,6 @@ conclusion
 concrete
 condition
 conduct
-conduct
 conference
 confidence
 confident
@@ -728,7 +725,7 @@ contact
 contain
 container
 contemporary
-content_1
+content
 contest
 context
 continent
@@ -736,8 +733,6 @@ continue
 continuous
 continuously
 contract
-contract
-contrast
 contrast
 contrasting
 contribute
@@ -914,7 +909,6 @@ derive_from
 describe
 description
 desert
-desert
 deserted
 deserve
 design
@@ -1002,7 +996,7 @@ divide
 division
 divorce
 divorced
-do_1
+do
 doctor
 document
 dog
@@ -1036,7 +1030,7 @@ dress_up
 drink
 drive
 drive_away
-drive-off
+drive_off
 driver
 driving
 drop
@@ -1159,7 +1153,7 @@ enthusiastically
 entire
 entirely
 entitle
-entrance_1
+entrance
 entry
 envelope
 environment
@@ -1211,7 +1205,6 @@ exciting
 exclude
 excluding
 excuse
-excuse
 executive
 exercise
 exhibit
@@ -1234,7 +1227,6 @@ explanation
 explode
 explore
 explosion
-export
 export
 expose
 express
@@ -1536,7 +1528,7 @@ grandson
 grant
 grass
 grateful
-grave_1
+grave
 gravely
 great
 greatly
@@ -1714,7 +1706,6 @@ impact
 impatient
 implication
 imply
-import
 import
 importance
 important
@@ -1902,7 +1893,7 @@ lane
 language
 large
 largely
-last_1
+last
 late
 later
 latest
@@ -1915,9 +1906,9 @@ lawyer
 lay
 layer
 lazy
-lead_1
+lead
 leader
-leading_1
+leading
 leaf
 league
 lean
@@ -1945,8 +1936,7 @@ library
 licence
 license
 lid
-lie_1
-lie_2
+lie
 lie_around
 lie_down
 life
@@ -1967,8 +1957,7 @@ listen
 literature
 litre
 little
-live_1
-live_2
+live
 lively
 live_on
 live_through
@@ -2126,7 +2115,7 @@ minister
 ministry
 minor
 minority
-minute_1
+minute
 mirror
 miss
 missing
@@ -2272,7 +2261,6 @@ nurse
 nut
 obey
 object
-object
 objective
 observation
 observe
@@ -2354,18 +2342,16 @@ outer
 outline
 output
 outside
-outside
 outstanding
 oven
 over
-overall
 overall
 overcome
 owe
 own
 owner
 own_up
-pace_1
+pace
 pack
 package
 packaging
@@ -2380,7 +2366,7 @@ painting
 pair
 palace
 pale
-pan_1
+pan
 panel
 pants
 paper
@@ -2423,7 +2409,7 @@ peak
 pen
 pencil
 penny
-pension_1
+pension
 people
 pepper
 per
@@ -2498,7 +2484,7 @@ plenty
 plot
 plug
 plug_in
-plus_1
+plus
 p.m.
 pocket
 poem
@@ -2563,7 +2549,6 @@ prepare
 prepared
 presence
 present
-present
 presentation
 preserve
 president
@@ -2600,7 +2585,7 @@ probably
 problem
 procedure
 proceed
-process_1
+process
 produce
 producer
 product
@@ -2612,8 +2597,6 @@ profit
 program
 programme
 progress
-progress
-project
 project
 promise
 promote
@@ -2632,7 +2615,6 @@ propose
 prospect
 protect
 protection
-protest
 protest
 proud
 proudly
@@ -2746,7 +2728,6 @@ recognition
 recognize
 recommend
 record
-record
 recording
 recover
 red
@@ -2759,7 +2740,7 @@ reflect
 reform
 refrigerator
 refusal
-refuse_1
+refuse
 regard
 regarding
 region
@@ -2861,8 +2842,7 @@ ridiculous
 riding
 right
 rightly
-ring_1
-ring_2
+ring
 ring_back
 rise
 risk
@@ -2884,7 +2864,7 @@ round
 rounded
 route
 routine
-row_1
+row
 royal
 rub
 rubber
@@ -2957,7 +2937,7 @@ seal_off
 search
 season
 seat
-second_1
+second
 secondary
 secret
 secretary
@@ -2989,7 +2969,6 @@ sense
 sensible
 sensitive
 sentence
-separate
 separate
 separated
 separately
@@ -3150,7 +3129,6 @@ soldier
 solid
 solution
 solve
-some
 some
 somebody
 somehow
@@ -3343,7 +3321,6 @@ surround
 surrounding
 surroundings
 survey
-survey
 survive
 suspect
 suspicion
@@ -3396,8 +3373,7 @@ teach
 teacher
 teaching
 team
-tear_1
-tear_2
+tear
 tear_up
 technical
 technique
@@ -3424,7 +3400,6 @@ than
 thank
 thanks
 thank_you
-that
 that
 the
 theatre
@@ -3535,12 +3510,10 @@ traffic
 train
 training
 transfer
-transfer
 transform
 translate
 translation
 transparent
-transport
 transport
 transportation
 trap
@@ -3656,7 +3629,6 @@ up
 upon
 upper
 upset
-upset
 upsetting
 upside_down
 upstairs
@@ -3667,9 +3639,7 @@ urge
 urgent
 us
 use
-use
-used_1
-used_2
+used
 used_to
 useful
 useless
@@ -3803,8 +3773,7 @@ willing
 willingly
 willingness
 win
-wind_1
-wind_2
+wind
 window
 wine
 wing
@@ -3839,7 +3808,7 @@ worship
 worst
 worth
 would
-wound_1
+wound
 wounded
 wrap
 wrapping
