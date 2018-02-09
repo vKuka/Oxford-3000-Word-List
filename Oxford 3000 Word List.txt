@@ -187,7 +187,7 @@ approve
 approving
 approximate
 approximately
-April
+april
 area
 argue
 argument
@@ -339,7 +339,7 @@ betting
 between
 beyond
 bicycle
-bid 1
+bid
 big
 bike
 bill
@@ -474,8 +474,7 @@ camera
 camp
 campaign
 camping
-can 1
-can 2
+can
 cancel
 cancer
 candidate
@@ -605,8 +604,7 @@ climate
 climb
 climbing
 clock
-close 1
-close 2
+close
 closed
 closely
 closet
@@ -727,7 +725,7 @@ contact
 contain
 container
 contemporary
-content 1
+content
 contest
 context
 continent
@@ -998,7 +996,7 @@ divide
 division
 divorce
 divorced
-do 1
+do
 doctor
 document
 dog
@@ -1155,7 +1153,7 @@ enthusiastically
 entire
 entirely
 entitle
-entrance 1
+entrance
 entry
 envelope
 environment
@@ -1530,7 +1528,7 @@ grandson
 grant
 grass
 grateful
-grave 1
+grave
 gravely
 great
 greatly
@@ -1895,7 +1893,7 @@ lane
 language
 large
 largely
-last 1
+last
 late
 later
 latest
@@ -1908,9 +1906,9 @@ lawyer
 lay
 layer
 lazy
-lead 1
+lead
 leader
-leading 1
+leading
 leaf
 league
 lean
@@ -1938,8 +1936,7 @@ library
 licence
 license
 lid
-lie 1
-lie 2
+lie
 lie around
 lie down
 life
@@ -1960,8 +1957,7 @@ listen
 literature
 litre
 little
-live 1
-live 2
+live
 lively
 live on
 live through
@@ -2119,7 +2115,7 @@ minister
 ministry
 minor
 minority
-minute 1
+minute
 mirror
 miss
 missing
@@ -2355,7 +2351,7 @@ owe
 own
 owner
 own up
-pace 1
+pace
 pack
 package
 packaging
@@ -2370,7 +2366,7 @@ painting
 pair
 palace
 pale
-pan 1
+pan
 panel
 pants
 paper
@@ -2413,7 +2409,7 @@ peak
 pen
 pencil
 penny
-pension 1
+pension
 people
 pepper
 per
@@ -2488,7 +2484,7 @@ plenty
 plot
 plug
 plug in
-plus 1
+plus
 p.m.
 pocket
 poem
@@ -2589,7 +2585,7 @@ probably
 problem
 procedure
 proceed
-process 1
+process
 produce
 producer
 product
@@ -2744,7 +2740,7 @@ reflect
 reform
 refrigerator
 refusal
-refuse 1
+refuse
 regard
 regarding
 region
@@ -2846,8 +2842,7 @@ ridiculous
 riding
 right
 rightly
-ring 1
-ring 2
+ring
 ring back
 rise
 risk
@@ -2869,7 +2864,7 @@ round
 rounded
 route
 routine
-row 1
+row
 royal
 rub
 rubber
@@ -2942,7 +2937,7 @@ seal off
 search
 season
 seat
-second 1
+second
 secondary
 secret
 secretary
@@ -3378,8 +3373,7 @@ teach
 teacher
 teaching
 team
-tear 1
-tear 2
+tear
 tear up
 technical
 technique
@@ -3645,8 +3639,7 @@ urge
 urgent
 us
 use
-used 1
-used 2
+used
 used to
 useful
 useless
@@ -3780,8 +3773,7 @@ willing
 willingly
 willingness
 win
-wind 1
-wind 2
+wind
 window
 wine
 wing
@@ -3816,7 +3808,7 @@ worship
 worst
 worth
 would
-wound 1
+wound
 wounded
 wrap
 wrapping
